@@ -1,0 +1,9 @@
+{
+    "from":"deepworm@qq.com",
+    "to":"deepworm@qq.com",
+    "server":"smtp.qq.com",
+    "user":"deepworm",
+    "password":"qq邮箱的授权码",
+    "subject":"不用填",
+    "message":"不用填"
+}
